@@ -847,13 +847,6 @@ a:focus {
 }
 
 .has-mobile-nav .c-page {
-    /* option 1 scale */
-    /* transform: scale(.98); */
-
-    /* option 2 push left */
-    /* transform: translateX(100%); */
-
-    /* option 3 slide left */
     transform: translateX(25%);
 }
 
